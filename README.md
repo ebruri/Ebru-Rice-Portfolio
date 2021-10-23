@@ -1,4 +1,4 @@
-# _{Ebru Rice Portfolio}_
+# Ebru Rice Portfolio
 
 #### By _**{Ebru Rice}**_
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This is a portfolio page for Ebru Rice. It was created with HTML and CSS.}_
+This is a portfolio page for Ebru Rice. It was created with HTML and CSS.
 
 
 ## Known Bugs
@@ -20,6 +20,6 @@ _{This is a portfolio page for Ebru Rice. It was created with HTML and CSS.}_
 
 ## License
 
-_{You are welcome to contribute to the code. You can also contact me with any questions.}_
+You are welcome to contribute to the code. You can also contact me with any questions.
 
 Copyright (c) _2021_ _Ebru Rice_
