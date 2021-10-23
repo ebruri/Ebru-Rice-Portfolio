@@ -1,8 +1,8 @@
 # Ebru Rice Portfolio
 
-#### By _**{Ebru Rice}**_
+#### By Ebru Rice
 
-#### _{Brief description of application}_
+#### A Portfolio page 
 
 ## Technologies Used
 
@@ -16,10 +16,10 @@ This is a portfolio page for Ebru Rice. It was created with HTML and CSS.
 
 ## Known Bugs
 
-* _No bugs for now_
+* No bugs for now
 
 ## License
 
 You are welcome to contribute to the code. You can also contact me with any questions.
 
-Copyright (c) _2021_ _Ebru Rice_
+Copyright (c) 2021 Ebru Rice
