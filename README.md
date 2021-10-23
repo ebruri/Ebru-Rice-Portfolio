@@ -15,7 +15,7 @@ This is a portfolio page for Ebru Rice. It was created with HTML and CSS. Bootst
 
 ## GitHub Pages
 
-[Click] (https://ebruri.github.io/Ebru-Rice-Portfolio/) here to go to Ebru Rice Portfolio page.
+[Click here](https://ebruri.github.io/Ebru-Rice-Portfolio/) to go to Ebru Rice Portfolio page.
 
 ## Known Bugs
 
