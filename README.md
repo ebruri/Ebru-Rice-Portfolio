@@ -13,6 +13,9 @@
 
 This is a portfolio page for Ebru Rice. It was created with HTML and CSS. Bootstrap classes were used.  
 
+## GitHub Pages
+
+ [Click here] (https://ebruri.github.io/Ebru-Rice-Portfolio/) to go to Ebru Rice Portfolio page.
 
 ## Known Bugs
 
