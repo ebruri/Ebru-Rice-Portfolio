@@ -11,12 +11,12 @@
 
 ## Description
 
-This is a portfolio page for Ebru Rice. It was created with HTML and CSS.
+This is a portfolio page for Ebru Rice. It was created with HTML and CSS. Bootstrap classes were used.  
 
 
 ## Known Bugs
 
-* No bugs for now
+* Contact page is missing
 
 ## License
 
