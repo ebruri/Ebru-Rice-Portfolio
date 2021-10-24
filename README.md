@@ -2,7 +2,7 @@
 
 #### By Ebru Rice
 
-#### A Portfolio page 
+#### A portfolio page for Ebru Rice
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-This is a portfolio page for Ebru Rice. It was created with HTML and CSS. Bootstrap classes were used.  
+This is a portfolio page I created for myself. It was created with HTML and CSS. Bootstrap classes were used. There are 3 pages; Home, Projects, Contact.   
 
 ## GitHub Pages
 
@@ -19,7 +19,7 @@ This is a portfolio page for Ebru Rice. It was created with HTML and CSS. Bootst
 
 ## Known Bugs
 
-* Contact page is missing
+* N/A
 
 ## License
 
