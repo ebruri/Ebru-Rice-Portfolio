@@ -26,3 +26,5 @@ This is a portfolio page for Ebru Rice. It was created with HTML and CSS. Bootst
 You are welcome to contribute to the code. You can also contact me with any questions.
 
 Copyright (c) 2021 Ebru Rice
+
+Licensed under the [MIT license](license.txt)
