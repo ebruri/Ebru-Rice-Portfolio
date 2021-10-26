@@ -1,19 +1,16 @@
 .nav li a{
   color: black;
   }
-
-  .link {
-    color:rgb(153, 79, 79);
+.link {
+  color:rgb(153, 79, 79);
   }
-
-  .my-class {
+.my-class {
   padding: 20px;
   background-color:#e9ecef;
   margin-bottom: 10px;
   box-sizing: border-box;
   text-align: center;
   }
-
-  .text {
+.text {
   text-align: center;
   }
