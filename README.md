@@ -17,6 +17,13 @@ This is a portfolio page I created for myself. It was created with HTML and CSS.
 
 [Click here](https://ebruri.github.io/Ebru-Rice-Portfolio/) to go to Ebru Rice Portfolio page.
 
+## Setup/Installation Requirements
+
+* Open Terminal
+* Change the current working directory to the location where you want the cloned directory.
+* Type $ git clone https://github.com/ebruri/Ebru-Rice-Portfolio
+* Press enter to create your local clone.
+
 ## Known Bugs
 
 * N/A
