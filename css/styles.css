@@ -1,4 +1,4 @@
-.nav li a{
+.nav li a {
   color: black;
   }
 .link {
@@ -14,6 +14,9 @@
 .text {
   text-align: center;
   }
-.card{
+.card {
     margin-bottom: 20px;
+}
+.jumbotron {
+  margin-top: 30px;
 }
