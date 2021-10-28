@@ -1,3 +1,7 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+}
 .nav li a {
   color: black;
   }
@@ -14,9 +18,26 @@
 .text {
   text-align: center;
   }
-.card {
-    margin-bottom: 20px;
-}
-.jumbotron {
-  margin-top: 30px;
-}
+  
+  .fun {
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    75% {
+      font-size: 300%;
+      margin-left: 25%;
+      width: 150%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
