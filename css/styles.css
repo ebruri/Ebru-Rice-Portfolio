@@ -1,6 +1,9 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
+  background-image: url('/Users/ebrurice/Desktop/Epicodus/portfolio/img/pax.jpg');
+  background-repeat: no-repeat;
+  background-size: 2000px 1500px;
 }
 .nav li a {
   color: black;
@@ -19,25 +22,10 @@ body {
   text-align: center;
   }
   
-  .fun {
-    animation-duration: 3s;
-    animation-name: slidein;
-  }
-  
-  @keyframes slidein {
-    from {
-      margin-left: 100%;
-      width: 300%;
-    }
-  
-    75% {
-      font-size: 300%;
-      margin-left: 25%;
-      width: 150%;
-    }
-  
-    to {
-      margin-left: 0%;
-      width: 100%;
-    }
-  }
+.jumbotron {
+  background-color: #E3EEEA;
+}  
+
+.card {
+  background-color: #EFF5F3;
+}
