@@ -1,9 +1,10 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
-  background-image: url('/Users/ebrurice/Desktop/Epicodus/portfolio/img/pax.jpg');
+  background-image: url('/Users/ebrurice/Desktop/Epicodus/Ebru-Rice-Portfolio/img/pax.jpg');
   background-repeat: no-repeat;
   background-size: 2000px 1500px;
+  opacity: 0.9;
 }
 .nav li a {
   color: black;
